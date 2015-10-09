@@ -1,0 +1,8 @@
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+it just makes it more simple to commit once rather than a commit for each separate file
+
+How can you use the commands git log and git diff to view the history of files?
+so, if i want to produce the diff between two files using the git diff command i compare the two files and to the changes the two files i use the git log.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+i want to try developing my app in android
