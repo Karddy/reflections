@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 ---> we would use a remote repository when we want or are sharing the code with our colleagues and he gets a bug fix and commits it on github and we want that commit to be pushed locally
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+---> that would be better than automatic as if the changes made to or the new commit is not desirable then it need not be pulled hence a better choice.
