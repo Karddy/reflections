@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+---> we would use a remote repository when we want or are sharing the code with our colleagues and he gets a bug fix and commits it on github and we want that commit to be pushed locally
